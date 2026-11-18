@@ -1,0 +1,7 @@
+2026-11-18 18:14:20,323 - INFO - Moved backup.zip to Archives
+2026-11-18 18:14:20,326 - INFO - Moved notes.txt to Documents
+2026-11-18 18:14:20,329 - INFO - Moved photo.jpg to Images
+2026-11-18 18:14:20,332 - INFO - Moved program.py to Code
+2026-11-18 18:14:20,338 - INFO - Moved sample.pdf to Documents
+2026-11-18 18:14:20,343 - INFO - Moved video.mp4 to Videos
+2026-11-18 18:14:20,345 - INFO - Completed. Moved=6, Skipped=0, Failed=0
